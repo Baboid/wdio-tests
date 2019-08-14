@@ -1,0 +1,11 @@
+###
+#
+# cd_prod.yml
+#
+# Config data for the Production environment
+#
+###
+
+url:
+  playground: 'http://www.webdriveruniversity.com/'
+  profile: 'http://www.webdriveruniversity.com/'

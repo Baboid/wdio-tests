@@ -1,0 +1,11 @@
+###
+#
+# cd_stage.yml
+#
+# Config data for the Staging environment
+#
+###
+
+url:
+  playground: 'http://www.webdriveruniversity.com/'
+  profile: 'http://www.webdriveruniversity.com/'
